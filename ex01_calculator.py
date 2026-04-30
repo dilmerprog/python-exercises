@@ -1,3 +1,5 @@
+#Criando um programa que leia dois números e mostre a soma, subtração, multiplicação e divisão.
+
 n1 = int(input('Numero 1:'))
 n2 = int(input('Numero 2:'))
 soma = n1 + n2
