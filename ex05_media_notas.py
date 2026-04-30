@@ -5,10 +5,9 @@ nota1 = float(input('Digite a sua nota de Matematica:'))
 nota2 = float(input('Digite a sua nota de Portugues:'))
 nota3 = float(input('Digite a sua nota de Historia:'))
 nota4 = float(input('Digite a sua nota de Filosofia:'))
-soma = nota1 + nota2 + nota3 + nota4
-divisao = soma / 4
+media = (nota1 + nota2 + nota3 + nota4) / 4
 
-if divisao < 6.0:
-    print('Sua nota foi {}. Sinto muito vc reprovou!!!'. format(divisao))
+if media < 6.0:
+    print('Sua nota foi {}. Sinto muito vc reprovou!!!'. format(media))
 else:
-    print('Sua nota foi {}. Parabéns vc passou!!!'.format(divisao))
+    print('Sua nota foi {}. Parabéns vc passou!!!'.format(media))
