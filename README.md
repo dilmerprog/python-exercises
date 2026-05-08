@@ -11,8 +11,8 @@ Estou começando meus estudos em Python e este repositório serve para acompanha
 
 - Variáveis
 - Tipos de dados
-- Condições (`if`, `else`)
-- Laços de repetição (`for`, `while`)
+- Condições (if, else)
+- Laços de repetição (for, while)
 - Funções
 - Listas e dicionários
 - Orientação a Objetos (POO)
@@ -26,7 +26,16 @@ Estou começando meus estudos em Python e este repositório serve para acompanha
 
 ```bash
 📁 python-estudos
- ├── exercicios/
- ├── projetos/
- ├── testes/
- └── README.md
+├── exercicios/
+├── projetos/
+├── testes/
+└── README.md
+
+## 🎯 Objetivo futuro
+
+Melhorar minha lógica de programação e desenvolver projetos cada vez mais completos usando Python.
+
+## 📌 Observações
+
+Este repositório faz parte da minha jornada de aprendizado em programação.
+Alguns códigos podem estar simples ou em desenvolvimento, mas a ideia é evoluir constantemente 🚀
