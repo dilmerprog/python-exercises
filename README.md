@@ -30,6 +30,7 @@ Estou começando meus estudos em Python e este repositório serve para acompanha
 ├── projetos/
 ├── testes/
 └── README.md
+```
 
 ## 🎯 Objetivo futuro
 
